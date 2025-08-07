@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/exdovic/termniq-insiders/releases/download/0.0.1-snapshot.20250807/Termniq-darwin-arm64-0.0.1-snapshot.20250807.zip",
+  "name": "0.0.1-snapshot.20250807-insider",
+  "version": "eb08df54a12840bc3b5a3fcb086a10831fdee546",
+  "productVersion": "0.0.1-snapshot.20250807-insider",
+  "vscodeBaseVersion": "1.100.34097",
+  "hash": "449d0d0df9dff7df486247b15eb2be50556edbbf",
+  "timestamp": 1754552224126,
+  "sha256hash": "c5d54739dd53a7fd632bf569098641d5c5cb160340c0fb18f9e7c3aa43aa7b2a"
+}
